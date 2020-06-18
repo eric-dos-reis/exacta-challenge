@@ -96,7 +96,7 @@ O assets estão na pasta [assets](./assets) do repositório e o protótipo naveg
 - Mínimo SDK: API 15
 - Linguagem: Java ou Kotlin
 
-### Particularidades do desafio IOS:
+### Particularidades do desafio iOS:
 
 - Versão mínima: iOS 9
 - Linguagem: Swift
