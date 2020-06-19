@@ -38,7 +38,7 @@ Critérios de aceite
 
 **Eu como** usuário
 
-**Gostaria de** meu carrinho de compra
+**Gostaria de** acessar meu carrinho de compra
 
 **e** ver todos os produtos que eu adicionei via marketplace
 
